@@ -1,6 +1,8 @@
-# flutter_web_basic
+# Flutter_Web_Basic
 
 A new Flutter project.
+
+It is Basic Responsive website created using Flutter.
 
 ## Getting Started
 
